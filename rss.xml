@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The SleepyTown Collection]]></title>
+        <description><![CDATA[The SleepyTown Collection]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Mar 2016 16:22:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The SleepyTown Collection is a Brand New multi-media, multi-cultural children project about a bully-free magical world that's accessible by using a very special key, and animals pretty much run the enchanted, fun filled world.  The SleepyTown key is "what a kid or animal" loves the most: 💤💭💞🔑🔓🎉.  Once inside flying is optional but humorously encouraged.  You can sing underwater with the help of a very special bubble gum.  The main library chooses the reader and keeping the magical balance are the three powerful, shape-shifting, time bending Wyrdd Sisters.  </p>]]></description>
+            <link>undefinedthe-sleepytown-collection-is-a-brand-new-multi-media-multi-/index.html</link>
+            <guid isPermaLink="false">96499453-52e4-4331-b5b4-0ab715d67f85</guid>
+            <pubDate>Sun, 13 Mar 2016 16:22:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
