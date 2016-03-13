@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: "The SleepyTown Collection is a Brand New multi-media, multi-cultural children project about a bully-free magical world that's accessible by using a very special key, and animals pretty much run the enchanted, fun filled world. \_The SleepyTown key is \"what a kid or animal\" loves the most:\_\uD83D\uDCA4\uD83D\uDCAD\uD83D\uDC9E\uD83D\uDD11\uD83D\uDD13\uD83C\uDF89. \_Once inside flying is optional but humorously encouraged. \_You can sing underwater with the help of a very special bubble gum. \_The main library chooses the reader and keeping the magical balance are the three powerful, shape-shifting, time bending Wyrdd Sisters. \_"
-datePublished: '2016-03-13T16:40:21.021Z'
-dateModified: '2016-03-13T16:40:11.846Z'
-title: ''
+description: "The SleepyTown Collection is a Brand New multi-media, multi-cultural children project about a bully-free magical world that's accessible by using a very special key, and animals pretty much run the enchanted, fun filled world. \_The SleepyTown key is \"whatever a kid or baby animal\" loves the most:\_\uD83D\uDCA4\uD83D\uDCAD\uD83D\uDC9E\uD83D\uDD11\uD83D\uDD13\uD83C\uDF89. \_Once inside flying is optional but humorously encouraged. \_You can sing underwater with the help of a very special bubble gum. \_The main library chooses the reader and keeping the magical balance are the three powerful, shape-shifting, time bending Wyrdd Sisters. \_"
+datePublished: '2016-03-13T17:12:38.580Z'
+dateModified: '2016-03-13T17:11:50.134Z'
+title: '#sleepytown1'
 author: []
 sourcePath: _posts/2016-03-13-the-sleepytown-collection-is-a-brand-new-multi-media-multi-.md
 published: true
@@ -22,9 +22,10 @@ url: the-sleepytown-collection-is-a-brand-new-multi-media-multi-/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5eabfdd3-1c5a-48fe-9a36-48aaba801270.png)
+# [\#sleepytown1][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5ec0e7b-309c-4b82-9c76-56d09749703f.png)
 
-**_The SleepyTown Collection_** is a Brand New multi-media, multi-cultural children project about a bully-free magical world that's accessible by using a very special key, and animals pretty much run the enchanted, fun filled world.  The SleepyTown key is "what a kid or animal" loves the most: 💤💭💞🔑🔓🎉.  Once inside flying is optional but humorously encouraged.  You can sing underwater with the help of a very special bubble gum.  The main library chooses the reader and keeping the magical balance are the three powerful, shape-shifting, time bending Wyrdd Sisters.  
+**_The SleepyTown Collection_** is a Brand New multi-media, multi-cultural children project about a bully-free magical world that's accessible by using a very special key, and animals pretty much run the enchanted, fun filled world.  The SleepyTown key is "whatever a kid or baby animal" loves the most: 💤💭💞🔑🔓🎉.  Once inside flying is optional but humorously encouraged.  You can sing underwater with the help of a very special bubble gum.  The main library chooses the reader and keeping the magical balance are the three powerful, shape-shifting, time bending Wyrdd Sisters.  
 
 **_Aaron "the fearless."_**_His parents are famous authors and intellectuals from India. Their combined writing collection on mythology and the impact on contemporary society is considered the "primer" on the subject and it's speculated that their source is of a mystical nature. Whispers of a MacArthur Foundation and Nobel Peace Prize for literature have followed them for years._ Aaron's adventurous nature is a drastic contrast to the calm nature of his parents. His special toy is Monkey.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/738200a2-64b9-4cf6-8c59-4a452840cc5b.jpg)
@@ -51,10 +52,11 @@ They don't "cackle" --- much --- and they don't ride on broom sticks.  Once, Git
 
 THE STUFFED ANIMALS BEFORE ENTERING THE MAGICAL (BULLY FREE) WORLD OF SLEEPYTOWN:  (L-to-R). **Shunya** (Little "C"'s toy), **Duma **(the head of magical security), **Monkey** (Aaron's toy), **Penny **(Sharon's toy).
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb8ef515-49f2-42b3-a115-1e36ad33c788.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5afa7d09-f5e8-48ab-8c55-585a3ed7a987.gif)
 
 6 Steps to get inside SLEEPYTOWN : 💤💭💞🔑🔓🎉 
 
-**PENNY**is the "unofficial," "unofficial" keeper of the keys.  Present what you love the most. Smile. She will accept and in goes your utterly unique key. Some mind consider her noisy but Penny considers herself very well informed. Her favorite color is orange.  Her favorite ice creme changes day to day.  Saying: "Love is powerful. Hug a rainbow. Dance with a Firefly."
+**PENNY **is the "unofficial," "unofficial" keeper of the keys.  Present what you love the most. Smile. She will accept and in goes your utterly unique key. Some mind consider her noisy but Penny considers herself very well informed. Her favorite color is orange.  Her favorite ice creme changes day to day.  Saying: "Love is powerful. Hug a rainbow. Dance with a Firefly."
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5464326-3e6f-49a5-861a-06e989289fba.png)
 
 **DUMA **is the head of magical security. He loves sneakers, baseball raps and making music. Deep down he has the heart of a poet. His favorite color is red.  His favorite ice creme is Rock Road.  Saying: "Duma in Charge. Magic enforced. Have Fun."
@@ -65,4 +67,8 @@ en\*tre\*pre\*neur is the best way to describe **MONKEY **the owner of Monkey Bu
 
 **SHUNYA**'s soccer skills are extraordinary.  Since the game is played on the ground and in the air, the skills as a goalie are reaching legendary status. Once a shy elephant from India, her unique style has made her a icon for little girls all over the magical world.  Little "C" is her best friend.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a79fa879-038f-411a-8b50-462794d73478.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d84b0f8-7ea6-4c4a-834e-70300b0fc13e.png)
+
+The Mystery of The World starts inside SleepyTown:  \#sleepytown @sleepytown1
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0708070e-5ca2-4bb6-9989-a50f33598f0a.gif)
+
+[0]: http://morningsider.com/harlem-journalist-develops-the-sleepytown-collection-a-childrens-series/
