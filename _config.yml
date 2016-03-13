@@ -1,0 +1,28 @@
+name: The SleepyTown Collection
+favicon: null
+layout_spectrum: 0.7475517524871975
+typography_spectrum: 0.45507821161299944
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2642541076056659
+  lightness: 0.5835172086954117
+  saturation: 0.7823850482236594
+  rhythmicContrast: 0.45661145984195173
+purpose: []
