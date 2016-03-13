@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: "The SleepyTown Collection is a Brand New multi-media, multi-cultural children project about a bully-free magical world that's accessible by using a very special key, and animals pretty much run the enchanted, fun filled world. \_The SleepyTown key is \"whatever a kid or baby animal\" loves the most:\_\uD83D\uDCA4\uD83D\uDCAD\uD83D\uDC9E\uD83D\uDD11\uD83D\uDD13\uD83C\uDF89. \_Once inside flying is optional but humorously encouraged. \_You can sing underwater with the help of a very special bubble gum. \_The main library chooses the reader and keeping the magical balance are the three powerful, shape-shifting, time bending Wyrdd Sisters. \_"
-datePublished: '2016-03-13T20:29:23.603Z'
-dateModified: '2016-03-13T20:28:56.967Z'
+description: "The SleepyTown Collection is a Brand New multi-media, multi-cultural children project about a bully-free magical world that's accessible by using a very special key, and animals pretty much run the enchanted, fun filled world. \_The SleepyTown key is \"whatever a kid or baby animal\" loves the most:\_\uD83D\uDCA4\uD83D\uDCAD\uD83D\uDC9E\uD83D\uDD11\uD83D\uDD13\uD83C\uDF89. \_Once inside flying is optional but humorously encouraged. \_You can sing underwater with the help of a very special bubble gum. \_The main library chooses the reader and keeping the magical balance are the three powerful, shape-shifting, time bending Wyrdd Sisters. \_(@sleeptown1)"
+datePublished: '2016-03-13T22:03:26.170Z'
+dateModified: '2016-03-13T22:03:10.906Z'
 title: '@sleepytown1'
 author: []
 sourcePath: _posts/2016-03-13-the-sleepytown-collection-is-a-brand-new-multi-media-multi-.md
@@ -77,12 +77,17 @@ en\*tre\*pre\*neur is the best way to describe **MONKEY **the owner of Monkey Bu
 
 _"Infinite love is the only truth everything else is illusion; when you look inside your heart, you will see that love, that's the ultimate key.   (excerpt lyric from Infinite Love Opens by L.M.S)_
 
+"Dream Without Fear" is now the master key for Aaron, Sharon and Little "C" to get inside the magical world and re-start the fun. The gates have been closed for billions of years but now in 2016 --- the magic of love have opened them up and wham! ! !
+
+undefined
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1c76a2b-1737-4b75-90f7-c9177c74c95e.jpg)
 
-"Dream Without Fear" is now the master key for Aaron, Sharon and Little "C" to get inside the magical world and re-start the fun. The gates have been closed for billions of years but now in 2016 --- the magic of love have opened them up and wham! ! ! _(illustrator Daryl Calhoun)_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2e92f8d-aaeb-48c2-9097-dbf3c1ce203f.jpg)
-
 A sneak peek into the world of SleepyTown where animals have cool jobs, make music, manage fun and help to keep the bullies far, far, far way!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2e92f8d-aaeb-48c2-9097-dbf3c1ce203f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd220392-7444-4d87-bc72-fb82082f8ec5.jpg)
+
+The SleepyTown Kids recommend fun stuff to do in New York City!  Check out[bit.ly/][2]
+
 
 [0]: http://morningsider.com/harlem-journalist-develops-the-sleepytown-collection-a-childrens-series/
 [1]: http://www.striderbikes.com/
