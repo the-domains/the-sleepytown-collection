@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The SleepyTown Collection is a Brand New multi-media, multi-cultural children project about a bully-free magical world that's accessible by using a very special key, and animals pretty much run the enchanted, fun filled world. \_The SleepyTown key is \"what a kid or animal\" loves the most:\_\uD83D\uDCA4\uD83D\uDCAD\uD83D\uDC9E\uD83D\uDD11\uD83D\uDD13\uD83C\uDF89. \_Once inside flying is optional but humorously encouraged. \_You can sing underwater with the help of a very special bubble gum. \_The main library chooses the reader and keeping the magical balance are the three powerful, shape-shifting, time bending Wyrdd Sisters. \_"
-datePublished: '2016-03-13T16:22:35.070Z'
-dateModified: '2016-03-13T16:22:05.185Z'
+datePublished: '2016-03-13T16:40:21.021Z'
+dateModified: '2016-03-13T16:40:11.846Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-13-the-sleepytown-collection-is-a-brand-new-multi-media-multi-.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-13-the-sleepytown-collection-is-a-brand-new-multi-media-multi-.md
-published: true
 url: the-sleepytown-collection-is-a-brand-new-multi-media-multi-/index.html
 _type: Article
 
