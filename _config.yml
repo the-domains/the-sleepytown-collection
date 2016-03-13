@@ -1,6 +1,6 @@
 name: The SleepyTown Collection
 favicon: null
-layout_spectrum: 0.7475517524871975
+layout_spectrum: 0.99321
 typography_spectrum: 0.45507821161299944
 title: 'A new multi-media children property being developed for a mobile, global children generation.'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.625
+  brandStrength: 0.5
   lightness: 0.625
-  saturation: 0.25
+  saturation: 0.4375
   rhythmicContrast: 0.25
 purpose: []
