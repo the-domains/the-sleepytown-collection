@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "The SleepyTown Collection is a Brand New multi-media, multi-cultural children project about a bully-free magical world that's accessible by using a very special key, and animals pretty much run the enchanted, fun filled world. \_The SleepyTown key is \"whatever a kid or baby animal\" loves the most:\_\uD83D\uDCA4\uD83D\uDCAD\uD83D\uDC9E\uD83D\uDD11\uD83D\uDD13\uD83C\uDF89. \_Once inside flying is optional but humorously encouraged. \_You can sing underwater with the help of a very special bubble gum. \_The main library chooses the reader and keeping the magical balance are the three powerful, shape-shifting, time bending Wyrdd Sisters. \_(@sleeptown1)"
-datePublished: '2016-03-13T23:18:42.298Z'
-dateModified: '2016-03-13T23:18:39.760Z'
+datePublished: '2016-03-14T01:18:25.914Z'
+dateModified: '2016-03-14T01:17:31.516Z'
 title: bit.ly/1RYA6Hp
 author: []
 sourcePath: _posts/2016-03-13-the-sleepytown-collection-is-a-brand-new-multi-media-multi-.md
@@ -24,21 +24,20 @@ _type: Article
 ---
 The SleepyTown Collection 
 
-# [bit.ly/**1RYA6Hp**][0]
+# **[bit.ly/1RYA6Hp][0]**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5ec0e7b-309c-4b82-9c76-56d09749703f.png)
 
-**_The SleepyTown Collection_** is a Brand New multi-media, multi-cultural children project about a bully-free magical world that's accessible by using a very special key, and animals pretty much run the enchanted, fun filled world.  The SleepyTown key is "whatever a kid or baby animal" loves the most: 💤💭💞🔑🔓🎉.  Once inside flying is optional but humorously encouraged.  You can sing underwater with the help of a very special bubble gum.  The main library chooses the reader and keeping the magical balance are the three powerful, shape-shifting, time bending Wyrdd Sisters.  (@sleeptown1)
+**_The SleepyTown Collection_** is a Brand New multi-media, multi-cultural children project about a bully-free magical world that's accessible by using a very special key, and animals pretty much run the enchanted, fun filled world.  The SleepyTown key is "whatever a kid or baby animal" loves the most: 💤💭💞🔑🔓🎉.  Once inside flying is optional but humorously encouraged.  You can sing underwater with the help of a very special bubble gum.  The main library chooses the reader and keeping the magical balance are the three powerful, shape-shifting, time bending Wyrdd Sisters.  [(**bit.ly/1RYA6Hp**)][0]
 
 💞🔑🔓🎉
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/738200a2-64b9-4cf6-8c59-4a452840cc5b.jpg)
 
 **_A[aron "the fearless."][1]_**_His parents are famous authors and intellectuals from India. Their combined writing collection on mythology and the impact on contemporary society is considered the "primer" on the subject and it's speculated that their source is of a mystical nature. Whispers of a MacArthur Foundation and Nobel Peace Prize for literature have followed them for years._ Aaron's adventurous nature is a drastic contrast to the calm nature of his parents. His special cuddly toy is a Monkey, named "Monkey."
 
-[_**Little "C"**__**aka the fixer/Newto****n**_][0] has two dads. Born in China he was adopted after both of his scientist parents mysteriously disappeared. His I.Q. is so high that he is has been pre-selected to Eton College, Oxford and Stanford University. His special toy is a jolly Elephant (Shunya) who, like him, is obsessed with soccer. (illustrations by Daryl Calhoun)
+[_**Little "C"**__**aka the fixer/Newto****n**_][2] has two dads. Born in China he was adopted after both of his scientist parents mysteriously disappeared. His I.Q. is so high that he is has been pre-selected to Eton College, Oxford and Stanford University. His special toy is a jolly Elephant (Shunya) who, like him, is obsessed with soccer. (illustrations by Daryl Calhoun)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5de1e30-d3cd-48b9-8452-05166fea3863.jpg)
 
 **_[Sharon "the eyes and brains][1]"_** has made everyone smile and laugh from the day she was born with her eyes wide open and a slender veil over her face. Her mother is a nurse and from a long blood line of women healers and her father, is a prodigy musician and traveling griot. Sharon was speaking at six months and her ability for languages has made her the youngest polyglot on record in the world. Her cuddly stuffed animal is a giraffe she named Penny. http://www.striderbikes.com (illustrations by Daryl Calhoun) - bit.ly/
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1db100e-27b1-411c-969a-8b16b40dc0e8.jpg)
 
 **THE POWER OF LOVE: ** Closed for billions of years but recently re-opened by **_Aaron "the Fearless"_**; **_Sharon the "Eyes and Brains"_** and **Little "C" **the "fixer aka Newton."  Once the three best friends fly over the gates --- they create a master key and shouting the motto:  "Dream Without Fear" SleepyTown is re-opened.  (Illustrations by Daryl Calhoun)
@@ -88,9 +87,10 @@ undefined
 A sneak peek into the world of SleepyTown where animals have cool jobs, make music, manage fun and help to keep the bullies far, far, far way!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2e92f8d-aaeb-48c2-9097-dbf3c1ce203f.jpg)
 
-The SleepyTown Kids recommend fun stuff to do in New York City!  Check out[bit.ly/][0]
+The SleepyTown Kids recommend fun stuff to do in New York City!  Check out[bit.ly/][2]
 
 
 
-[0]: null
+[0]: bit.ly/1RYA6Hp
 [1]: http://www.striderbikes.com/
+[2]: null
